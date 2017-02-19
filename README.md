@@ -1,4 +1,4 @@
-# acousticdatasampling
+# active acoustic data sampling
 
 I present you an active acoustic sampling mobile phone app in this code repository. 
 
