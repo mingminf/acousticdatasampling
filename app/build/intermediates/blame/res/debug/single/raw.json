@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\white_noise.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\white_noise.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sine17000hz20000hz.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\sine17000hz20000hz.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sin16000hz22000hz.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\sin16000hz22000hz.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sin20hz20000hzlin.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\sin20hz20000hzlin.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sin20hz20000hzlin.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\sin20hz20000hzlin.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sin16000hz22000hz.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\sin16000hz22000hz.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sine17000hz20000hz.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\code\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\sine17000hz20000hz.wav"
+    },
+    {
+        "merged": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\build\\intermediates\\res\\merged\\debug\\raw\\white_noise.wav",
+        "source": "C:\\Users\\mfan\\OneDrive\\FunProjectsCode\\ActiveAcousticDataCollection\\app\\src\\main\\res\\raw\\white_noise.wav"
+    }
+]

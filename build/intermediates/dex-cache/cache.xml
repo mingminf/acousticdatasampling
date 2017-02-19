@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_1ffa7105324b9de08bfd9f623098fb7fcf68958f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_1041612141d05fa3412f8eda9bf02a6a5dadd61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_75496dfa8b69de7b23b0ce8ceca411969b25e060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d3ff4a7e1038f25835ccce48179e125b02ed425d">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_10a5b54efcba442d58a4a73fe2c24b337e2ac58b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_3349355cf48d3f85a1acf74818dac60de1279751.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3233f033d6f7b631d051521199e91cc924844160">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\instant-run_47323104af98bde7e0ced5db36cdc1975c6b472c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_3d1a7924bc7dcb4d015f93d1de5957270080a481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\mfan\OneDrive\FunProjectsCode\ActiveAcousticDataCollection\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_4dd887247316a5713e6237c074e6b5393aec310d.jar" />
+    </item>
+
+</items>

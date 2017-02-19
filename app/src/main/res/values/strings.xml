@@ -1,0 +1,62 @@
+<resources>
+
+<string name="app_name">ActiveAcousticDataCollection</string>
+<string name="action_settings">Settings</string>
+<string-array name="materials">
+    <item>calico</item>
+    <item>canvas</item>
+    <item>cotton</item>
+    <item>hemp</item>
+    <item>jute</item>
+    <item>leather</item>
+    <item>nylon</item>
+    <item>plastic</item>
+    <item>others</item>
+</string-array>
+
+<string-array name="seal">
+    <item>yes</item>
+    <item>no</item>
+</string-array>
+
+<string-array name="level">
+    <item>others</item>
+    <item>0.0</item>
+    <item>0.1</item>
+    <item>0.2</item>
+    <item>0.25</item>
+    <item>0.3</item>
+    <item>0.4</item>
+    <item>0.5</item>
+    <item>0.6</item>
+    <item>0.7</item>
+    <item>0.75</item>
+    <item>0.8</item>
+    <item>0.9</item>
+    <item>1.0</item>
+</string-array>
+
+<string-array name="containing">
+    <item>liquid</item>
+    <item>solid</item>
+    <item>mix</item>
+    <item>gel</item>
+    <item>others</item>
+</string-array>
+
+<string-array name="volume">
+    <item>1</item>
+    <item>0.8</item>
+    <item>0.75</item>
+    <item>0.5</item>
+    <item>0.4</item>
+    <item>0.25</item>
+    <item>0.1</item>
+</string-array>
+
+<string-array name="soundtype">
+    <item>fullrange</item>
+    <item>ultrasound</item>
+    <item>whitenoise</item>
+</string-array>
+</resources>
